@@ -1,6 +1,3 @@
----
-
-````markdown
 # 🐍 Beginner Python Projects
 
 A collection of fun beginner-friendly **Python mini-projects** that helped me learn the basics of programming.  
