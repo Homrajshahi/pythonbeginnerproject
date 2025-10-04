@@ -36,7 +36,7 @@ Each project focuses on a specific concept like loops, conditionals, random numb
 1. Clone the repository:
    ```bash
    git clone https://github.com/homrajshahi/pythonbeginnerproject.git
-````
+   ````
 
 2. Navigate to the project folder:
 
